@@ -48,6 +48,9 @@
                 <div class="col-4 ">
                     <img src="/image/chair.png" alt="" class="w-100"style="margin-right: 15%">                
 
+
+
+                    
                 </div>
         </div>
     
@@ -59,7 +62,7 @@
 
 
 
-        
+
         <script src="{{ mix('js/app.js') }}"></script>
         <script type="text/javascript" src="{{ asset('js/welcome.js') }}"></script>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
